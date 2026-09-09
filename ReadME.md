@@ -1,4 +1,4 @@
-# ResViT-Tiny (Lightweight Hybrid Segmentation)
+# FastResUNet (Lightweight Hybrid Segmentation)
 
 ## 1. Goal
 Perform semantic image segmentation using a highly optimized, lightweight architecture designed to run efficiently on devices with integrated graphics (e.g., Intel Iris Xe) without thermal throttling. This project utilizes the Pascal VOC 2012 dataset.
